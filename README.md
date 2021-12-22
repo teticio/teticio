@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm [Robert Smith](https://teticio.github.io). Please have a look around and feel free to [drop me a line](mailto:teticio@gmail.com) if you find anything interesting. 
 
 <!--
 **teticio/teticio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
