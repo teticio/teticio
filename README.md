@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm [Robert Smith](https://teticio.github.io). Please have a look around and feel free to [drop me a line](mailto:teticio@gmail.com) if you find anything interesting. 
 
+[![Robert Dargavel Smith's GitHub stats](https://github-readme-stats.vercel.app/api?username=teticio&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Robert Dargavel Smith's LinkedIn profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/attentioncoach/) [![Robert Dargavel Smith's Medium articles](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://teticio.medium.com/) [![Robert Dargavel Smith's email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teticio@gmail.com)
+
 <!--
 **teticio/teticio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
