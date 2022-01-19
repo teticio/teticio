@@ -5,7 +5,7 @@
 </p>
  
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teticio&theme=dracula&hide=HTML,%20Jupyter%20Notebook,%20Smarty&langs_count=7" alt="Robert Dargavel Smith's programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teticio&theme=dracula&hide=HTML,%20Jupyter%20Notebook,%20Smarty&langs_count=7&layout=compact" alt="Robert Dargavel Smith's programming languages"/>
 </p>
 
 <p align="center">
