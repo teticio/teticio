@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm [Robert Smith](https://teticio.github.io). Please have a look around and feel free to [drop me a line](mailto:teticio@gmail.com) if you find anything interesting. 
 
 <p align="center">
-  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api?username=teticio&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Robert Dargavel Smith's GitHub stats"/>
+  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api?username=teticio&show_icons=true&count_private=true&include_all_commits=true" alt="Robert Dargavel Smith's GitHub stats"/>
   &nbsp;
-  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teticio&theme=dracula&hide=HTML,%20Jupyter%20Notebook,%20Smarty&langs_count=7&layout=compact" alt="Robert Dargavel Smith's programming languages"/>
+  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teticio&hide=HTML,%20Jupyter%20Notebook,%20Smarty&langs_count=7&layout=compact" alt="Robert Dargavel Smith's programming languages"/>
 </p>
 
 <p align="center">
