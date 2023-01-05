@@ -12,6 +12,8 @@
   <a href="https://teticio.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Robert Dargavel Smith's Medium articles"/></a>
   &nbsp;
   <a href="mailto:teticio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Robert Dargavel Smith's email"/></a>
+  &nbsp;
+  <a href="https://huggingface.co/teticio" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFBE17?style=for-the-badge" alt="Robert Dargavel Smith's Hugging Face"/></a>
 </p>
 
 <!--
