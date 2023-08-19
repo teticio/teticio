@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm [Robert Smith](https://teticio.github.io). Please have a look around and feel free to [drop me a line](mailto:teticio@gmail.com) if you find anything interesting. 
 
 <p align="center">
-  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api?username=teticio&show_icons=true&count_private=true&include_all_commits=true" alt="Robert Dargavel Smith's GitHub stats"/>
+  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api?username=teticio&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Robert Dargavel Smith's GitHub stats"/>
   &nbsp;
   <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teticio&hide=HTML,%20Jupyter%20Notebook,%20Smarty&langs_count=7&layout=compact" alt="Robert Dargavel Smith's programming languages"/>
 </p>
@@ -14,6 +14,14 @@
   <a href="mailto:teticio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Robert Dargavel Smith's email"/></a>
   &nbsp;
   <a href="https://huggingface.co/teticio" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFBE17?style=for-the-badge" alt="Robert Dargavel Smith's Hugging Face"/></a>
+</p>
+
+#### Top Repositories
+
+<p align="center">
+  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/pin/?username=teticio&repo=Deej-AI" alt="Deej-AI"/>
+  &nbsp;
+  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/pin/?username=teticio&repo=audio-diffusion" alt="audio-diffusion"/>
 </p>
 
 <!--
