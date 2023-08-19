@@ -23,7 +23,7 @@
     <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/pin/?username=teticio&repo=Deej-AI" alt="Deej-AI"/>
   </a>
   &nbsp;
-  <a href="https://github.com/teticio/audio-diffusio">
+  <a href="https://github.com/teticio/audio-diffusion">
     <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/pin/?username=teticio&repo=audio-diffusion" alt="audio-diffusion"/>
   </a>
 </p>
