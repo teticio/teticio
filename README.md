@@ -19,9 +19,13 @@
 #### Top Repositories
 
 <p align="center">
-  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/pin/?username=teticio&repo=Deej-AI" alt="Deej-AI"/>
+  <a href="https://github.com/teticio/Deej-AI">
+    <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/pin/?username=teticio&repo=Deej-AI" alt="Deej-AI"/>
+  </a>
   &nbsp;
-  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/pin/?username=teticio&repo=audio-diffusion" alt="audio-diffusion"/>
+  <a href="https://github.com/teticio/audio-diffusio">
+    <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/pin/?username=teticio&repo=audio-diffusion" alt="audio-diffusion"/>
+  </a>
 </p>
 
 <!--
