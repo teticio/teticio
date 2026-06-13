@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Robert Dargavel Smith's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 1798, Total Commits  : 4405, Total PRs: 37, Total Issues: 14, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 1798, Total Commits  : 4404, Total PRs: 37, Total Issues: 14, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 78.07182199440564;
+        stroke-dashoffset: 78.07319296286391;
       }
     }
   
